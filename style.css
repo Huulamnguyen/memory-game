@@ -1,0 +1,25 @@
+/* Import Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Notable&family=Rubik&display=swap');
+
+#game {  
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  width: 100%;
+  display: block;
+  text-align: center;  
+}
+
+#game div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 20%;
+  height: 180px;
+  margin: 10px;  
+  background-color: aqua;
+}
+
+h1 {
+  font-family: 'Notable', sans-serif;
+  text-align: center;
+}
